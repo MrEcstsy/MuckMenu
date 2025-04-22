@@ -26,3 +26,5 @@ GAME: MUCK
    - Once in-game, press `F1` to toggle the menu.
 
 ---
+
+![image](https://github.com/user-attachments/assets/1bb354d9-11f2-487e-b265-2ab9c5066b61)
