@@ -17,7 +17,7 @@ My first mod menu. im not experienced in C# or in mod menus at all. fully functi
    - You should now see a `BepInEx/plugins/` folder.
 
 2. **Install this mod**:
-   - Download the compiled `.dll` file from the [Releases page](https://github.com/MrEcstsy/MuckMenu/releases) *(replace with your actual link)*.
+   - Download the compiled `.dll` file from the [Releases page](https://github.com/MrEcstsy/MuckMenu/releases)
    - Place the `.dll` inside the `BepInEx/plugins/` folder.
 
 3. **Launch the game**:
