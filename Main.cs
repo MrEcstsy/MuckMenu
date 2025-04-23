@@ -79,7 +79,7 @@ public class Main : BaseUnityPlugin
             Logger.LogInfo($"[Muck Menu] Added 1000 coins to inventory.");
         }
 
-        if (GUILayout.Button("Drop 1,0000 Coins", buttonStyle))
+        if (GUILayout.Button("Drop 1,000 Coins", buttonStyle))
         {
             ClientSend.DropItem(3, 1000);
         }
