@@ -7,7 +7,7 @@ using System.Linq;
 
 namespace MuckMenu
 {
-    [BepInPlugin("com.ecstsy.muckmenu", "Muck Menu", "1.0.0")]
+    [BepInPlugin("com.ecstsy.muckmenu", "Muck Menu", "1.0.1")]
 
     public class Main : BaseUnityPlugin
     {
